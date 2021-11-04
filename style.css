@@ -1,0 +1,40 @@
+h1{
+    font-family:monospace;
+    font-size:60px;
+    color:#FE1C1C;
+    background-color: black;
+    padding:50px;
+}
+h4{
+    font-family:sans-serif;
+    color:white;
+    background-color: black;
+    display:block;
+    width:1500px;
+    height:39px;
+    padding-top:2px;
+}
+#menu a{
+    color:whitesmoke;
+    background-color: black;
+    display:block;
+    width:1500px;
+    height:25px;
+    padding-top:2px;   
+}
+#menu a:hover{
+    color: red;
+}
+h2{
+   font-size: 40px;
+   font-family: cursive;
+   color:red;
+   background-color: black;
+   display:block;
+   width:1500px;
+   height:30;
+}
+p{
+    font-family: sans-serif;
+    color: black
+}
